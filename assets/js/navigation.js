@@ -4,6 +4,7 @@ function loadNavigation() {
         <div class="nav-menu">
             <a href="/">Home</a> |
             <a href="/publications/">Publications</a> |
+            <a href="/funding/">Funding</a> |
             <a href="/services/">Services</a>
         </div>
     `;
